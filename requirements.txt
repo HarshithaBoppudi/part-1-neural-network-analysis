@@ -1,0 +1,11 @@
+pandas → load and explore the churn dataset.
+
+numpy → numerical operations, arrays, preprocessing.
+
+scikit-learn → train/test split, scaling, encoding categorical features, evaluation metrics.
+
+matplotlib → plotting accuracy/loss curves, confusion matrix.
+
+seaborn → nicer plots for churn distribution and confusion matrix heatmap.
+
+tensorflow → building and training the feed‑forward neural network.
